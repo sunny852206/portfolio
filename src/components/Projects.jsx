@@ -186,6 +186,12 @@ const Projects = () => {
           ))}
         </div>
 
+        <div className="projects-footer">
+          <p className="projects-note">
+            Additional projects currently in development and will be added soon.
+          </p>
+        </div>
+
         <ScreenshotModal
           isOpen={modalOpen}
           onClose={closeModal}
