@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my software development projects and technical skills.
 
-🔗 Live Site: [Live Site](https://sunnylau.vercel.app/)
+🔗 Live Site: [https://sunnylau.vercel.app/](https://sunnylau.vercel.app/)
 
 ---
 
